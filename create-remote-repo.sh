@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# chmod +x create-remote-repo.sh
 git init
 git add .
 git commit -m "first commit"
