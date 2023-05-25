@@ -1,0 +1,36 @@
+/* a */
+* {
+    margin: 5px;
+    padding: 3px;
+    border: 1.5px dotted red;
+    text-align: center;
+}
+
+header, footer{
+    background-color: orange;
+}
+nav {
+    color: blue;
+    background-color: lightblue;
+}
+
+main{
+    border: 4px solid green;
+}/*??*/
+/*??*/
+/*??*/
+/*??*/
+/*??*/
+/* b */
+/*??*/
+/*??*/
+/*??*/
+/* c */
+/*??*/
+/*??*/
+/*??*/
+/*??*/
+/* d */
+/*??*/
+/*??*/
+/*??*/

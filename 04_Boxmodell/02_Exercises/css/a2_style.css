@@ -1,0 +1,15 @@
+.article01 {
+    border: 5px;
+    width: 600px;
+    padding: 5px 4px 5px 4px;
+}
+
+
+
+header,footer{
+    border: 10px dotted deeppink;
+    width: 600px;
+    padding: 10px 2px;
+    text-align: center;
+
+}
